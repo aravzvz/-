@@ -15,16 +15,16 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const botName = "𝗜𝘃𝘆𝗯𝗼𝘁";
-		const botPrefix = "'";
-		const authorName = "𝗜𝘃𝘆 𝗟𝗮𝘂𝗿𝗲𝗻𝘁";
-		const ownAge = "18";
-		const relationship = "𝗘𝗻𝗴𝗮𝗴𝗲𝗱";
-		const boyfriend = "𝗷𝗮𝘀𝗿𝗲𝗹";
-		const teamName = "𝗠𝗜𝗫𝗜𝗡𝖳𝖤𝖠𝖬";
-		const authorFB = "https://www.facebook.com/profile.php?id=61559145628304";
+		const botName = "Zyeira";
+		const botPrefix = "/";
+		const authorName = "𝗔𝗽𝗽𝗹𝗲 𝗬𝗽𝗮𝗿𝗿𝗮𝗴𝘂𝗶𝗿𝗿𝗲";
+		const ownAge = "going 15";
+		const relationship = "single";
+		const boyfriend = "";
+		const teamName = "";
+		const authorFB = "https://www.facebook.com/apple.vzvz";
 		const authorInsta = "Thead469";
-		const tikTok = "tiktok.com/@Ivy_143";
+		const tikTok = "";
 		const urls = JSON.parse(fs.readFileSync('cliff.json'));
 		const link = urls[Math.floor(Math.random() * urls.length)];
 		const now = moment().tz('Asia/Jakarta');
