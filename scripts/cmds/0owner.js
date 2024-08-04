@@ -17,13 +17,13 @@ module.exports = {
 	onStart: async function ({ api, event }) {
 		try {
 			const ownerInfo = {
-				name: '𝗜𝗩𝗬 𝗟𝗔𝗨𝗥𝗘𝗡𝗧',
-				boyfriend: '𝗝𝗔𝗦𝗥𝗘𝗟 𝗜𝗗𝗞',
-				gender: '𝗙𝗲𝗺𝗮𝗹𝗲',
-				hobby: '𝗪𝗮𝘁𝗰𝗵𝗶𝗻𝗴 𝗮𝗻𝗶𝗺𝗲',
-				Fb: 'https://facebook.com/swordigo.swordslush',
-				Relationship: '𝗘𝗻𝗴𝗮𝗴𝗲𝗱',
-				bio: '𝗟𝗼𝘃𝗲 𝗱𝗲𝗲𝗽𝗹𝘆, 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗲 𝗼𝗽𝗲𝗻𝗹𝘆, 𝗮𝗻𝗱 𝗰𝗵𝗲𝗿𝗶𝘀𝗵 𝗲𝗮𝗰𝗵 𝗺𝗼𝗺𝗲𝗻𝘁 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿.'
+				name: '𝗔𝗽𝗽𝗹𝗲 𝗬𝗽𝗮𝗿𝗿𝗮𝗴𝘂𝗶𝗿𝗿𝗲',
+				boyfriend: '',
+				gender: 'female',
+				hobby: 'reading books',
+				Fb: 'https://www.facebook.com/apple.vzvz',
+				Relationship: 'single',
+				bio: 'Innocent face devil thoughts.'
 			};
 
 			const bold = 'https://i.imgur.com/VdsGj7H.mp4';
