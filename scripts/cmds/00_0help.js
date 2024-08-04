@@ -4,7 +4,7 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "⾕ | 𝗝𝗔𝗦𝗥𝗘𝗟 𝗔𝗜";
+const doNotDelete = "⾕ | 𝗔𝗽𝗽𝗹𝗲 𝗔𝗜";
 /** 
 * @author NTKhang
 * @author: do not delete it
