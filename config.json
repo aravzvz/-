@@ -17,21 +17,21 @@
     "ignoreCommand": []
   },
   "adminBot": [
-  "100087196276636",
-  "100075058221244",
-    "61554222594723"
+  "100028592973022",
+  "100028592973022",
+    "100028592973022"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Jasrel Idk",
-  "AGE": "18",
-  "GENDER": "MALE",
-  "nickNameBot": "𝗜𝘃𝘆𝗕𝗼𝘁",
-  "FACEBOOK": "https://www.facebook.com/jasrelking17",
-  "prefix": "'",
+  "OWNER": "𝗔𝗽𝗽𝗹𝗲 𝗬𝗽𝗮𝗿𝗿𝗮𝗴𝘂𝗶𝗿𝗿𝗲",
+  "AGE": "going 15",
+  "GENDER": "FEMALE",
+  "nickNameBot": "Zyeira",
+  "FACEBOOK": "https://www.facebook.com/apple.vzvz",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
